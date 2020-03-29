@@ -1,1 +1,4 @@
-Cat.js
+function Cat () {
+	// body... 
+}
+module.exports = Cat;

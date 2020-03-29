@@ -1,1 +1,5 @@
-Mouse.js
+function Mouse () {
+	// body... 
+}
+
+module.exports = Mouse;
